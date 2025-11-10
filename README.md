@@ -29,7 +29,7 @@ I'm a dual student currently driving my career at OBI while pursuing a degree in
 I'm always open to discussing Business Informatics topics, learning resources, or new coding challenges!  
 
 - [Gravatar](https://gravatar.com/philpasson)  
-- Email: me@philpasson.com
+- [E-Mail Me](mailto:me@philpasson.com)
 
   <a href="https://www.facebook.com/phil.passon/"><img src="https://iili.io/KQrvTHF.png" width="18" alt="Facebook" style="border:0; background-color:#ffffff;"></a>&nbsp;
   <a href="https://www.linkedin.com/in/phil-passon"><img src="https://iili.io/KQrvANa.png" width="18" alt="LinkedIn" style="border:0; background-color:#ffffff;"></a>&nbsp;
