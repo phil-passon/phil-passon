@@ -26,12 +26,6 @@ I'm a dual student working at OBI and studying at the FHDW where I am pursuing a
 
 ---
 
-## 💼 Dual Study & Professional Experience
-
-**Dual Student @ OBI & FHDW (Business Informatics)**
-
----
-
 ## 🌐 Connect with Me
 
 Hit me up for whatever really
