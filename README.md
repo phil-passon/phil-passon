@@ -18,7 +18,7 @@ I'm a dual student working at OBI and studying at the FHDW where I am pursuing a
 
 | Category | Skills & Focus | Status |
 |----------|----------------|--------|
-| **Academic Focus** | Business Informatics, Process Modeling, Data Structures | Dual Study |
+| **Academic Focus** | Business Informatics, Cybersecurity | Dual Study |
 | **Core Languages** | Python, Java | Foundational |
 | **Mobile Development** | Swift (iOS/macOS) | Beginner |
 | **Web Basics** | HTML, CSS | Foundational |
