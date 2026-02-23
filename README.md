@@ -1,11 +1,25 @@
 # Hi there, I'm Phil Passon! 👋
 
-  <a href="https://www.facebook.com/phil.passon/"><img src="https://iili.io/KQrvTHF.png" width="18" alt="Facebook" style="border:0; background-color:#ffffff;"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/phil-passon"><img src="https://iili.io/KQrvANa.png" width="18" alt="LinkedIn" style="border:0; background-color:#ffffff;"></a>&nbsp;
-  <a href="https://www.instagram.com/phil.passon/"><img src="https://iili.io/KQrvuAg.png" width="18" alt="Instagram" style="border:0; background-color:#ffffff;"></a>&nbsp;
-  <a href="https://www.pinterest.com/philpasson"><img src="https://iili.io/KQrvzS1.png" width="18" alt="Pinterest" style="border:0; background-color:#ffffff;"></a>&nbsp;
-  <a href="https://www.reddit.com/user/philpasson"><img src="https://iili.io/KQrvRDJ.png" width="18" alt="Reddit" style="border:0; background-color:#ffffff;"></a>&nbsp;
-  <a href="https://github.com/phil-passon"><img src="https://iili.io/KQrvYVR.png" width="18" alt="GitHub" style="border:0; background-color:#ffffff;"></a>
+<div align="left">
+  <a href="https://github.com/phil-passon" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/phil-passon" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/phil.passon/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.reddit.com/user/philpasson" target="_blank">
+    <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://www.facebook.com/phil.passon/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.pinterest.com/philpasson" target="_blank">
+    <img src="https://img.shields.io/badge/pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
+</div>
 
 ---
 ## Dual Student in Business Informatics
